@@ -1,6 +1,4 @@
-Got it! Let's revise the README to include that this project is part of your fourth task during your ML internship at EziTech. Here’s the updated version:
 
-```markdown
 # 🎨 MNIST GAN Image Generator
 
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
